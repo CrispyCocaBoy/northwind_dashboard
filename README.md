@@ -5,9 +5,8 @@ Questa è una semplice dashboard interattiva creata con [Dash](https://dash.plot
 ## 🚀 Funzionalità
 
 - Grafico a barre interattivo con le **quantità vendute per categoria**
-- Stile personalizzato ispirato al progetto "Avocado Analytics"
 - Connessione ai dati tramite **DuckDB** e **SQLite**
-
+- Progetto finale è avere una dashboard interattiva che permetta di esplorare il database northwinf**
 ## 🛠 Requisiti
 
 Assicurati di avere Python 3.8+ e i seguenti pacchetti installati:
